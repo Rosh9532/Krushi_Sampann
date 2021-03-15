@@ -1,5 +1,4 @@
-
-#Krushi Sampann- App for Betterment of Farmers
+<h1>Krushi Sampann- App for Betterment of Farmers<h1>
 Krushi Sampann is a web app based platform to empower the farmer community by providing them a better platform to market their products.The system aims to build a healthy relationship between the buyers and sellers which will ultimately prove to be benefitting economically to both the parties.
 
 ##End Users of platform
