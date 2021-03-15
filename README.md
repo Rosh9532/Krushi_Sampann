@@ -9,5 +9,6 @@
   <p>Buyer can view the products and can buy according to their preferences.</p>
  <h2>Contributors</h2>
 <p>This project is developed as a part of academic mini project in a team</p>
-  **Team Members** 
-[Krushna Dahake](https://github.com/krish10k)
+ <p><b>Team Members</b></p>
+
+<a href="https://github.com/krish10k"> Krushna Dahake </a>
