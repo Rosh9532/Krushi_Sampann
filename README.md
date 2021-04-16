@@ -12,3 +12,4 @@
  <p><b>Team Members</b></p>
 
 <a href="https://github.com/krish10k"> Krushna Dahake </a>
+<a href="https://github.com/teju1001"> Tejashree Ghude </a>
